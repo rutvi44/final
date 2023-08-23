@@ -1,0 +1,21 @@
+Parts.Part
+Parts.Part
+Parts.Part
+1|29.99|Screwdriver|High-quality screwdriver|10
+2|45.99|Hammer|Heavy-duty hammer|5
+1|29.99|Screwdriver|High-quality screwdriver|10
+2|45.99|Hammer|Heavy-duty hammer|5
+1|29.99|Screwdriver|High-quality screwdriver|10
+2|45.99|Hammer|Heavy-duty hammer|5
+99|45|Test Part|Test Description|3
+100|99.99|Another Part|Another Description|5
+438|23|plumbers level|30 co, two dimension|4
+99|45|Test Part|Test Description|3
+100|99.99|Another Part|Another Description|5
+438|23|Plumbers level|30cm, two dimension|4
+438|23|kljioj|85saf|4
+435|13.5|hgiiib|jsvcuygu|2
+99|45|Test Part|Test Description|3
+100|99.99|Another Part|Another Description|5
+1|22|box|wooden box|4
+45|55|ok|kij|5

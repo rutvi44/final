@@ -1,0 +1,24 @@
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\bin\Debug\net6.0\Parts.deps.json
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\bin\Debug\net6.0\Parts.dll
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\bin\Debug\net6.0\Parts.pdb
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.AssemblyInfoInputs.cache
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.AssemblyInfo.cs
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.dll
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\refint\Parts.dll
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.pdb
+C:\Users\mistr\Desktop\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\ref\Parts.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\bin\Debug\net6.0\Parts.deps.json
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\bin\Debug\net6.0\Parts.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\bin\Debug\net6.0\Parts.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.AssemblyInfoInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.AssemblyInfo.cs
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\refint\Parts.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\Parts.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\final\RMFinalExam\ClassLibrary\Part\Part\obj\Debug\net6.0\ref\Parts.dll
